@@ -1,0 +1,398 @@
+
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 12:26:19 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 9 ms Request ID: [aae50bb7-738b-4a34-8691-8ab63e15261d]
+
+Started GET /joyas?limit=1 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 12:26:58 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [95384f8e-1c5e-4258-b0f5-326ea51d7b34]
+
+Started GET /joyas?limit=1 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 12:27:53 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [747a3e95-d22a-449e-aa1a-a4fa9cd4ab15]
+
+Started GET /joyas?limit=1 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 12:28:33 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas/ for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 12:30:29 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 8 ms Request ID: [f2f0dd51-7978-4b44-8d49-7ce03b933a36]
+
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 12:30:38 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [d321259d-1142-47bb-8d1a-96eb8244cdf9]
+
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 12:33:49 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /get for :: ::1 at Sat Jan 20 2024 12:35:14 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 9 ms Request ID: [f10dc4fd-0e85-4bc0-9a7d-22ee216fb03f]
+
+Started GET /get/joyas for :: ::1 at Sat Jan 20 2024 12:35:22 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 1 ms Request ID: [9b644df1-6cb8-4fae-a1ff-d26a1dd3a7fe]
+
+Started GET /joyas for :: ::1 at Sat Jan 20 2024 12:35:33 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /get for :: ::1 at Sat Jan 20 2024 12:36:02 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 7 ms Request ID: [707ffc53-41ce-41bd-8e87-ac67de6fccc1]
+
+Started GET /get/joyas for :: ::1 at Sat Jan 20 2024 12:36:16 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [63a8ffa5-d715-4791-af1b-c5f0ba27809f]
+
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 12:42:19 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas?limit=1 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 12:45:58 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas?limit=1 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 12:46:13 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas?limit=1 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 12:48:45 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas?limit=1 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 12:50:18 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas?limit=1 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 13:22:27 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas?limit=1 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 13:24:03 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 14:18:03 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 14:18:34 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 14:23:16 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 14:26:21 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 14:27:30 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 14:29:06 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 14:31:44 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /get/joyas for :: ::1 at Sat Jan 20 2024 14:33:42 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 6 ms Request ID: [01b127d6-a566-4088-808b-e6378abb5505]
+
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 14:34:48 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 14:37:14 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 14:45:45 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 14:47:49 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 14:50:21 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 14:54:08 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 14:55:06 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 14:56:11 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 15:01:19 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 15:08:21 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 15:08:35 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 15:09:47 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 15:13:26 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 15:16:06 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 15:19:23 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 15:28:20 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 15:31:58 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 15:33:24 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 15:46:18 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 15:55:28 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas?page=2 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 16:00:17 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas?page=2 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 16:01:31 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 16:03:56 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas?order_by=id_DESC&limits=2&page=1 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 16:06:23 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas?order_by=id_DESC&limits=2&page=1 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 16:08:09 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 16:26:37 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 16:27:51 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 16:33:28 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 16:39:57 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 16:43:28 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 16:48:20 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 16:49:50 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 17:03:59 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 17:04:26 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 17:35:36 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 10 ms Request ID: [7f033124-3b40-4e8c-8f57-1e047a924a71]
+
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 17:36:00 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 14 ms Request ID: [90865d09-1c4e-4bee-9b66-ec7b71a5e736]
+
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 17:37:01 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 26 ms Request ID: [1b73fb31-4e36-4e02-a8cc-45044e8b7e43]
+
+Started GET /joyas?order_by=id_DESC&limits=2&page=1 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 17:39:37 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 6 ms Request ID: [8671ceed-b911-4789-94d5-acca90d65ff7]
+
+Started GET /joyas?order_by=id_DESC&limits=2&page=1 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 17:55:18 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 14 ms Request ID: [794bff01-112b-4856-aef3-c551afd6aaf7]
+
+Started GET /joyas?order_by=id_DESC&limits=2&page=1 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 17:55:37 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 15 ms Request ID: [eee24d4f-86a0-45d4-ba09-92bcf5f35de3]
+
+Started GET /joyas?order_by=id_DESC&limits=2&page=1 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 17:55:56 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 15 ms Request ID: [435eb629-b477-431a-abf1-50a7a6af29e6]
+
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 17:56:14 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 7 ms Request ID: [ab3fe723-37cb-431f-a353-a02bba86d23c]
+
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 17:57:08 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 12 ms Request ID: [79131826-a8b2-435c-8337-50e5d0e86181]
+
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:21:54 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 13 ms Request ID: [294b9186-51bb-44a0-9124-e111202ffc48]
+
+Started GET /joyas?order_by=id_DESC&limits=2&page=1 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:22:21 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 4 ms Request ID: [f7da6dea-2c1b-4a36-b78c-b468a25fba1a]
+
+Started GET /joya3s?order_by=id_DESC&limits=2&page=1 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:24:59 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [fc7f462d-8495-43dd-8e84-23188e7e9acb]
+
+Started GET /joyas?order_by=id_DESC&limits=2&page=1 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:26:43 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 11 ms Request ID: [716b110d-c83a-45b7-8db2-b35be387d58d]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:34:14 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 13 ms Request ID: [6dfedf24-47f8-43c4-ada7-732960592956]
+
+Started GET /joyas/filtros?precio_min=2&pagecategoria=1 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:35:20 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [bf561f68-c82d-4992-b4a5-bfd84712fec5]
+
+Started GET /joyas/filtros?precio_min=20000&pagecategoria=collar&metal=oro for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:36:56 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [4a60f3bb-6cf6-486b-87a6-60e9e76b30e9]
+
+Started GET /joyas/filtros?precio_min=20000&categoria=collar&metal=oro for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:38:29 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [2953af90-0295-4868-9af3-5676cb0aa0cc]
+
+Started GET /joyas/filtros?precio_min=12000&categoria=collar&metal=oro for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:39:31 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [fbdac24b-20de-427e-8d26-63f85dbb8a60]
+
+Started GET /joyas/filtros?precio_min=12000&categoria=aros%20&metal=oro for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:39:43 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [deed8e35-609b-405c-9c9f-c39ff40917ec]
+
+Started GET /joyas/filtros?precio_min=12000&categoria=aros%20&metal=oro for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:41:13 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 15 ms Request ID: [715b3c60-29e6-449b-aada-a8c85da08538]
+
+Started GET /joyas/filtros?precio_min=12000&categoria=aros%20&metal=oro for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:43:57 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 14 ms Request ID: [194a0a79-f21f-4b48-b4cd-ec88f2cae57e]
+
+Started GET /joyas/filtros?precio_max=20000&precio_min=12000&categoria=aros%20&metal=oro for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:44:14 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [c7deb9ba-e456-41d1-bfc5-241b08da2ce0]
+
+Started GET /joyas/filtros?precio_max=20000 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:44:21 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [873d7f9e-8832-4053-8ee4-a566ddde80f6]
+
+Started GET /joyas/filtros?precio_max=20000&precio_min=12000 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:44:23 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [8eb26b89-9b1d-4b9d-a39b-9a6bc1d1b4de]
+
+Started GET /joyas/filtros?precio_max=20000&precio_min=12000&categoria=aros%20 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:44:30 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [6f685d67-5f65-4ba5-b08c-53ea6d73703e]
+
+Started GET /joyas/filtros?precio_max=20000&precio_min=12000&categoria=aros%20&metal=oro for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:44:33 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [02490ecb-d284-4d53-84d9-6eac2c64464e]
+
+Started GET /joyas/filtros?precio_max=20000&precio_min=12000&categoria=aros%20 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:44:41 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [4a6d5177-a6fc-4712-9aa9-479375b5e889]
+
+Started GET /joyas/filtros?metal=oro for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:44:48 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [351e59d7-fbe1-4d61-8427-8fd5275eefa6]
+
+Started GET /joyas/filtros?categoria=aros%20 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:44:53 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [cd9a896c-2e57-48b4-bfb8-b41d84fb9521]
+
+Started GET /joyas/filtros?categoria=aros%20 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:44:56 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [fdf268d5-6d10-4f61-9ae0-3149e2197553]
+
+Started GET /joyas/filtros?categoria=aros%20 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:44:56 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [462df1b3-b273-4e5c-a69e-f6186337926d]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:45:35 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [9103bd7a-4d74-46b4-a697-dd9e35980ef1]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:46:34 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 12 ms Request ID: [a47d91e4-1d5c-4ae3-bf59-2a684165520e]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:46:35 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [96227b79-cd67-4118-89a4-6b4f3d500f5d]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:46:35 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [f5e56f07-3991-4339-b717-ab8786b86254]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:46:36 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [49c1d93e-46aa-4660-994c-a986c127f198]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:46:36 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [71f55399-23d5-4d95-83c6-65602402bf04]
+
+Started GET /joyas/filtros?precio_max=20000 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:46:40 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [d2438881-9177-4b72-8464-05e21d172d14]
+
+Started GET /joyas/filtros?precio_max=20000&precio_min=12000 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:46:42 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [45c4b5ad-233b-4780-b72c-62b2bd0d09b6]
+
+Started GET /joyas/filtros?precio_max=20000&precio_min=12000&categoria=aros%20&metal=oro for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:46:45 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 3 ms Request ID: [d7c1a505-4033-4ac8-8f44-912579ed2119]
+
+Started GET /joyas/filtros?precio_max=20000&precio_min=12000&categoria=aros%20&metal=oro for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:47:39 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 14 ms Request ID: [23f30490-b978-4430-b181-8df215568ec1]
+
+Started GET /joyas/filtros?precio_max=20000&precio_min=12000&categoria=aros%20&metal=oro for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:47:40 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [edd9a0dd-0de9-4ae3-9250-1e07f2a3a860]
+
+Started GET /joyas/filtros?precio_max=20000&precio_min=12000&categoria=aros%20&metal=oro for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:47:40 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 7 ms Request ID: [dc9eaf8b-6a8f-4ce7-9828-8b40ed75e71d]
+
+Started GET /joyas/filtros?precio_max=20000&precio_min=12000&categoria=aros%20&metal=oro for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:47:40 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [4deecd90-598a-4238-bd08-b729a2648247]
+
+Started GET /joyas/filtros?precio_max=20000&precio_min=12000&categoria=aros%20&metal=oro for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:56:08 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [81016359-2724-4953-beee-e011780bac49]
+
+Started GET /joyas/ for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 18:56:20 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 9 ms Request ID: [9b21b077-09f0-4680-85e4-dc18de899210]
+
+Started GET /joyas/filter for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 19:13:25 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [271b9264-ef76-41b8-a7ce-8dad6dd91870]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 19:13:49 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [615bb8b0-1d6c-4d92-8513-1972d59d45ff]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 19:20:03 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 14 ms Request ID: [ed564990-a9cb-4a44-b558-3821aec64c65]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 19:22:55 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 15 ms Request ID: [f578ee8c-1f72-418b-83b6-33f8e275872b]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 19:22:56 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [be68ba93-0cfd-4b9b-be0e-135b9b98bde7]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 19:22:56 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [1bb13395-08d3-4d96-8ebd-f84307761f51]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 19:22:56 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [47232276-6ffe-4906-b54a-a678c4aea804]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 19:22:56 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [3cb8901a-0c80-4342-b93d-7a066287f631]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 19:22:56 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [11e023f8-1f41-44ea-b22f-e87934f72002]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 19:22:57 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [f3500c93-ee9c-4fe8-ac76-5567592efbb6]
+
+Started GET /joyas/filtros?precio_max=id_DESC for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 19:23:00 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 5 ms Request ID: [19c7c313-b187-4490-9a31-e23f05049779]
+
+Started GET /joyas/filtros?precio_max=id_DESC&precio_max=20000&precio_min=12000&categoria=aros%20&metal=oro for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 19:23:05 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [5c7dd57b-977d-4b15-8f6c-1d7352efe651]
+
+Started GET /joyas/filtros?precio_max=id_DESC for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 19:25:55 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 13 ms Request ID: [a997238c-3b31-45a3-b96d-773ac345cccd]
+
+Started GET /joyas/filtros?precio_max=id_DESC for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 19:27:58 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 15 ms Request ID: [11057e75-b4ee-4152-8bba-84b190db2b4d]
+
+Started GET /joyas/filtros?precio_max=20000 for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 19:28:38 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 4 ms Request ID: [8d220fcd-93fe-4e1e-858d-96f57a1010db]
+
+Started GET /joyas/filtros for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 19:30:32 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [83128902-c1b9-4ec9-acec-ec5127d84d50]
+
+Started GET /joyas/ for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 19:30:37 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 10 ms Request ID: [36f5c445-6510-4e76-9d7f-cec301f319ea]
+
+Started GET /joyas for :: ::ffff:127.0.0.1 at Sat Jan 20 2024 19:30:47 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 3 ms Request ID: [0fcc04d2-34ce-4c48-871d-bfba6fc8e91d]
